@@ -11,3 +11,6 @@ Insertion Sort Project
    <br>
    <br>
 5. [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
+
+![image](https://github.com/user-attachments/assets/a91c4cf7-1e0c-4eeb-ae58-d3bd22dff643)
+
