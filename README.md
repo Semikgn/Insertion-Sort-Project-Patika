@@ -7,5 +7,7 @@ Insertion Sort Project
 3. Time Complexity: Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız. <br>
     -> Average case: Aradığımız sayının ortada olması, <br>
     -> Worst case: Aradığımız sayının sonda olması, <br>
-    -> Best case: Aradığımız sayının dizinin en başında olması. <br>
-4.[7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
+    -> Best case: Aradığımız sayının dizinin en başında olması.
+   <br>
+   <br>
+5. [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
